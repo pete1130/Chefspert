@@ -9,7 +9,7 @@ Chefs will create their own store by choosing a store name of their choice and t
 
 A cart lets the Chef see what the user does at checkout as this allows the Chef to ultimately help determine if their dishes are properly priced and suited towards their liking. 
 
-**Tech**
+**Tech:**
 This app is built with React.js
 
 ## Link: 
