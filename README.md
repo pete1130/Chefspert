@@ -1,4 +1,4 @@
-# Chefspert
+# Chefspert - Chef's Portal
 
 **Purpose of the app:**
 This app is designed to allow people who cook to participate in the gig economy and become a business owning Chef via their own customizable store/marketplace to sell and promote their meals to customers. 
